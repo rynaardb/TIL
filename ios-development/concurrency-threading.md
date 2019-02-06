@@ -64,4 +64,4 @@ queue.cancelAllOperations()
 ## Online Resources
 
 * [Swift Multi-Threading using GCD For Beginners](https://hackernoon.com/swift-multi-threading-using-gcd-for-beginners-2581b7aa21cb)
-* sss
+* [Dispatch On The Server - Soroush Khanlou](http://khanlou.com/2017/09/dispatch-on-the-server/)
