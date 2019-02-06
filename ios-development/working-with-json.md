@@ -2,7 +2,7 @@
 
 ## Parsing JSON
 
-### Decoding from JSON string / data to typed object
+### Given the following:
 
 ```swift
 struct Person: Codable {
@@ -19,6 +19,8 @@ var jsonString =
 """
 ```
 
+### Decoding from JSON string / data to typed object:
+
 ```swift
 let decoder = JSONDecoder()
 
@@ -30,7 +32,7 @@ if let jsonData = jsonString.data(using: .utf8),
 }
 ```
 
-### Encoding typed object to string / data
+### Encoding typed object to string / data:
 
 ```swift
 let person = Person(firstname: "Rynaard", lastname: "Burger")
@@ -56,7 +58,7 @@ struct Person: Codable {
 }
 ```
 
-Customizing key names:
+### Customizing key names:
 
 ```swift
 struct Person: Codable {

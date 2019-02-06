@@ -6,11 +6,11 @@ Collection of useful tips, trick and customisations for Xcode.
 
 ### Core Data
 
-SQL debugging:
+**SQL debugging:**
 
 `-com.apple.CoreData.SQLDebug 1`
 
-Migration debugging:
+**Migration debugging:**
 
 `-com.apple.CoreData.MigrationDebug 1`
 
