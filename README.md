@@ -10,7 +10,7 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 ## Programming
 
 [iOS](https://github.com/rynaardb/TIL/tree/master/ios-development)\
-[Swift](https://todo)\
+[Swift](https://github.com/rynaardb/TIL/tree/master/swift)\
 [Git](https://github.com/rynaardb/TIL/tree/master/git)
 
 ## Machine Learning (ML)
