@@ -9,7 +9,8 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 
 ## Programming
 
-[iOS](https://github.com/rynaardb/TIL/tree/master/ios-development)
+[iOS](https://github.com/rynaardb/TIL/tree/master/ios-development)  
+[Git](https://github.com/rynaardb/TIL/tree/master/git)
 
 ## Machine Learning (ML)
 
