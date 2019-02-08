@@ -4,7 +4,7 @@ Kubernetes is an open-source container orchestration system for automating appli
 
 ## Terminology
 
-![kubernetes-deployment](/images/kubernetes-deployment.png)
+![kubernetes-deployment](https://github.com/rynaardb/TIL/blob/master/containerization/images/kubernetes-deployment.png?raw=true)
 
 **Cluster**
 
@@ -37,7 +37,7 @@ A directory containing data, accessible to the containers in a pod .
 * VirtualBox
 * Docker
 * Kubernetes CLI tools
-* Minikube
+* minikube
 
 ### Installation
 
@@ -49,15 +49,77 @@ A directory containing data, accessible to the containers in a pod .
 
 ### Using minikube
 
-**Commands**
+**Useful Commands**
 
-`minikube dashboard` - starts the minikube dashboard
-`kubectl get node` - get all the nodes
+`minikube dashboard` - starts the minikube dashboard\
+`kubectl get node` - get all the nodes\
+`eval $(minikube docker-env)` - creates exports for docker environment \
+`minikiube docker-env` - ?
+`minikube ip` - gets the IP address of the host on which minikube is running
 
-### Notes
+## Creating a deployment
 
-minikube has its own docker daemon where containers will run
+### Deployment yaml file (deployment.yaml)
 
-### Online Resources
+Example of a very basic deployment:
 
-[Trying Kubernetes for the first time video](https://www.youtube.com/watch?v=ZSuh_nNPGls)
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ExampleDeployment
+spec:
+  selector:
+    matchLabels:
+      app: userServiceLabel
+  replicas: 1
+  template:
+    spec:
+      containers:
+        - name: vapor-api-gateway
+          imagePullPolicy: Never
+          image: vapor-api-gateway:lastest
+          ports:
+            - containerPort: 8080
+    metadata:
+      labels:
+        app: userServiceLabel
+```
+To create the deployment:
+
+`kubectil create -f deployment.yaml`
+
+## Exposing deployment with services
+
+### Services yaml file (services.yaml)
+
+```yaml
+kind: Service
+apiVersion: v1
+metadata:
+  name: User Service
+spec:
+  selector:
+    app: userServiceLabel
+  externalIPs:
+    - 192.168.99.100
+  type: LoadBalancer
+  ports:
+  - name: vapor-port
+    port: 8080
+    targetPort: 8080
+```
+
+To expose the service:
+
+`kubectl apply -f services.yaml`
+
+## Notes
+
+* You can also create deployments using JSON
+* minikube has its own docker daemon where containers will run
+
+## Online Resources
+
+[Trying Kubernetes for the first time video](https://www.youtube.com/watch?v=ZSuh_nNPGls)\
+[Using kubectl to Create a Deploykent](https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/)
