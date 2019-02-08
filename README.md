@@ -5,7 +5,9 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 
 [Swift.org](https://swift.org)\
 [NSHipster](https://nshipster.com)\
-[iOS Dev Weekly](https://iosdevweekly.com)
+[iOS Dev Weekly](https://iosdevweekly.com)\
+[Swift by Sundell](https://www.swiftbysundell.com)\
+[Hacking with Swift](https://www.hackingwithswift.com)
 
 ## Programming
 
