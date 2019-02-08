@@ -25,11 +25,15 @@
 
 ### Screencasts / Videos
 
-[NSScreencast](https://nsscreencast.com/)
+[NSScreencast](https://nsscreencast.com/)\
 [pointfree.co](https://www.pointfree.co/)
 
 ### Podcasts
 
-[Swift Community Podcast](https://www.swiftcommunitypodcast.org/)
+[Swift Community Podcast](https://www.swiftcommunitypodcast.org/)\
 [Swift over Coffee](https://twitter.com/swiftovercoffee)\
-[Swift Unwrapped](https://twitter.com/swift_unwrapped)
+[Swift Unwrapped](https://twitter.com/swift_unwrapped)\
+[Swift by Sundell](https://www.swiftbysundell.com/podcast)\
+[ContraVariance](https://contravariance.rocks)\
+[Inside iOS Dev](http://insideiosdev.com)\
+[SwiftCoders](https://itunes.apple.com/us/podcast/swiftcoders-weekly-interviews-with-swift-developers/id1082937962?mt=2)
