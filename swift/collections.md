@@ -25,6 +25,10 @@ Apply transformations to items in the collection.
 let uppercasedFirstnames = personArray.map { $0.firstname.uppercased() }
 ```
 
+### flatmap
+
+TODO!
+
 ### filter
 
 ```swift
