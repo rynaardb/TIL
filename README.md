@@ -6,7 +6,7 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 [iOS](https://github.com/rynaardb/TIL/tree/master/ios-development)\
 [Swift](https://github.com/rynaardb/TIL/tree/master/swift)\
 [Vapor]()\
-[Git](https://github.com/rynaardb/TIL/tree/master/git)\
+[Git](https://github.com/rynaardb/TIL/tree/master/git)
 
 ## Architecture & Best Practises
 
