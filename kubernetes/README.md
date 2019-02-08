@@ -2,7 +2,7 @@
 
 Kubernetes is an open-source container orchestration system for automating application deployment, scaling, and management.
 
-![kubernetes-deployment](https://github.com/rynaardb/TIL/blob/master/containerization/images/kubernetes-deployment.png?raw=true)
+![kubernetes-deployment](https://github.com/rynaardb/TIL/blob/master/images/kubernetes-deployment.png?raw=true)
 
 ## Terminology
 
