@@ -19,7 +19,10 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 
 ## Augmented Reality (AR)
 
-## Docker
+## Containerization
+
+Docker\
+Kubernetes\
 
 ## Cybersecurity
 
