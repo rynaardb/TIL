@@ -17,7 +17,7 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 [ios-goodies.com](https://ios-goodies.com/)\
 [andybargh.com](https://andybargh.com/)\
 [avanderlee.com](https://www.avanderlee.com/)\
-[indieiosfocus.com](http://indieiosfocus.com/)\
+[indieiosfocus.com](http://indieiosfocus.com/)
 
 
 ### Screencasts / Videos
