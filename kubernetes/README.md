@@ -36,4 +36,4 @@ A directory containing data, accessible to the containers in a pod.
 ## Online Resources
 
 [Trying Kubernetes for the first time video](https://www.youtube.com/watch?v=ZSuh_nNPGls)\
-[Using kubectl to Create a Deploykent](https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/)
+[Using kubectl to Create a Deployment](https://kubernetes.io/docs/tutorials/kubernetes-basics/deploy-app/deploy-intro/)
