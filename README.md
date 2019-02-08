@@ -15,7 +15,7 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 
 ## Containerization
 
-[Docker](https://github.com/rynaardb/TIL/tree/master/containerization)\
+[Docker](https://github.com/rynaardb/TIL/tree/master/docker)\
 [Kubernetes](https://github.com/rynaardb/TIL/tree/master/kubernetes)
 
 ## Cybersecurity
