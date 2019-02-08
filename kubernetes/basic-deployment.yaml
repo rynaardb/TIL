@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: ExampleDeployment
+spec:
+  selector:
+    matchLabels:
+      app: userServiceLabel
+  replicas: 1
+  template:
+    spec:
+      containers:
+        - name: vapor-api-gateway
+          imagePullPolicy: Never
+          image: vapor-api-gateway:lastest
+          ports:
+            - containerPort: 8080
+    metadata:
+      labels:
+        app: userServiceLabel

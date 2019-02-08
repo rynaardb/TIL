@@ -1,0 +1,14 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: User Service
+spec:
+  selector:
+    app: userServiceLabel
+  externalIPs:
+    - 192.168.99.100
+  type: LoadBalancer
+  ports:
+  - name: vapor-port
+    port: 8080
+    targetPort: 8080
