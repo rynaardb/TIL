@@ -1,6 +1,6 @@
 # Collections
 
-## Working with collections
+## Higher Order Functions
 
 ### Given the following
 
@@ -42,3 +42,7 @@ let combinedAge = personArray.reduce(0) { (result, next) -> Int in
     return result + next.age
 }
 ```
+
+### compactMap
+
+TODO
