@@ -8,6 +8,8 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 [Vapor](https://github.com/rynaardb/TIL/tree/master/vapor)\
 [Git](https://github.com/rynaardb/TIL/tree/master/git)
 
+## Cryptography
+
 ## Architecture & Best Practises
 
 ## Machine Learning (ML)
