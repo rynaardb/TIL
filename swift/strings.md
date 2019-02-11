@@ -17,7 +17,14 @@ let multilineString = """
 
 ### Substrings
 
-TODO!
+```swift
+let string = "Hello world!"
+
+let indexStartOfText = string.index(string.startIndex, offsetBy: 6)
+let indexEndOfText = string.index(string.endIndex, offsetBy: -6)
+
+let result = string[indexStartOfText...]
+```
 
 ### Check if a string contains a word (using contains)
 
