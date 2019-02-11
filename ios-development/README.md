@@ -15,6 +15,7 @@
 [avanderlee.com](https://www.avanderlee.com/)\
 [useyourloaf.com](https://useyourloaf.com/)\
 [littlebitesofcocoa.com](https://littlebitesofcocoa.com/)
+[theswiftdev.com](https://theswiftdev.com)
 
 ### Curations / Newesletters
 
