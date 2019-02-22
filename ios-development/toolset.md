@@ -6,6 +6,7 @@
 
 ### Continuous Integration
 
+[Jenkins](https://jenkins.io)\
 [Bitrise](https://www.bitrise.io/)\
 [CircleCI](https://circleci.com)\
 [Danger](https://danger.systems/)
@@ -32,6 +33,17 @@
 
 [Xcode](https://developer.apple.com/xcode/)\
 [AppCode](https://www.jetbrains.com/objc/)
+
+### Source Code Management (SCM)
+
+[Git](https://git-scm.com)\
+[GitHub](https://github.com)\
+[GitLab](https://about.gitlab.com)
+
+### Git Clients
+
+[GitHub Desktop](https://desktop.github.com)\
+[SourceTree](https://www.sourcetreeapp.com)
 
 ### Linters
 
