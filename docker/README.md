@@ -26,6 +26,7 @@ Docker Trusted Registry (DTR) is a commercial product that enables complete imag
 
 `docker pull IMAGE:TAG` - pulls a new image\
 `docker build -t IMAGE_NAME` - build from local Dockerfile\
+`docker build -f Dockerfile.dev .` - force building for a specific environment
 `docker images` - shows a list of docker images\
 `docker images -a` - shows a list of all docker images\
 `docker image prune -a` - removes all unused images\
@@ -36,6 +37,7 @@ Docker Trusted Registry (DTR) is a commercial product that enables complete imag
 
 `docker push username/container_name:tag` - pushes the container image to Docker Hub (remember to docker login first)\
 `docker ps` - shows a list of running containers\
+`docker ps --all` - shows all created containers\
 `docker container ls -a` - shows all containers\
 `docker run IMAGE_NAME` - runs the container\
 `docker run --name NAME` - runs the container with a name\
@@ -46,3 +48,17 @@ Docker Trusted Registry (DTR) is a commercial product that enables complete imag
 ### Other Commands
 
 `docker login` - logs into Docker Hub
+`docker system prune` - removes all containers
+
+## Dockerfile
+
+`COPY ./ ./` copies all files from local machine to image path
+`WORKDIR path/to/folder` specifies the working directory
+
+## Docker Volumes
+
+TODO
+
+## Docker Compose
+
+TODO
