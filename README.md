@@ -8,6 +8,7 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 [Vapor](https://github.com/rynaardb/TIL/tree/master/vapor)\
 [Git](https://github.com/rynaardb/TIL/tree/master/git)\
 [GraphQL](https://github.com/rynaardb/TIL/tree/master/graphql)
+[SOLID Principles](https://github.com/rynaardb/TIL/tree/master/solid-principles)
 
 ## Cryptography
 
