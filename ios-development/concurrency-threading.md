@@ -21,6 +21,14 @@ DispatchQueue.main.async { [unowned self] in
 }
 ```
 
+Execute code after a delay:
+
+```swift
+DispatchQueue.main.asyncAfter(deadline: .now() + 0.5) {
+    // code will execute after 500ms
+}
+```
+
 Execute code on a **background thread**:
 
 ```swift
