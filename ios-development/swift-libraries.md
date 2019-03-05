@@ -16,6 +16,10 @@
 
 [SwiftNIO](https://github.com/apple/swift-nio)
 
+## UI
+
+[Loaf](https://github.com/schmidyy/loaf) - Toast notifications
+
 ## Animations
 
 [Hero](https://github.com/HeroTransitions/Hero) - UIViewController transitions
