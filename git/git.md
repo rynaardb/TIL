@@ -44,6 +44,10 @@ For a single repository:
 
 `git pull` or `git pull origin BRANCH_NAME`
 
+Pull from master on the main repo in when working with forks:
+
+`git pull upstream BRANCH_NAME`
+
 ## Stashing
 
 **Stash current changes**
