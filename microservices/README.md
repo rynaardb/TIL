@@ -4,6 +4,8 @@ Microservices are a software development technique — a variant of the service-
 
 ## Microservices vs. Monolith
 
+TODO
+
 ## Advantages
 
 Microservices offers a number of benefits some of which includes:
