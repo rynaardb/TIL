@@ -48,6 +48,13 @@ view.trailingAnchor.constraint(equalTo: self.view.safeAreaLayoutGuide.trailingAn
 view.bottomAnchor.constraint(equalTo: self.view.safeAreaLayoutGuide.bottomAnchor),
 ```
 
-## Animating Layout Constraints
+## NSLayoutConstraint.activate
 
-TODO
+```swift
+NSLayoutConstraint.activate([view1.centerXAnchor.constraint(equalTo: view.centerXAnchor),
+                             view1.topAnchor.constraint(equalTo: view.safeAreaLayoutGuide.topAnchor, constant: 10),
+                             view1.widthAnchor.constraint(equalToConstant: 150),
+                             view1.heightAnchor.constraint(equalToConstant: 50)])
+```
+
+## Animating Layout Constraints

@@ -20,6 +20,10 @@ To show build times, run the following command in terminal:
 
 `defaults write com.apple.dt.Xcode ShowBuildOperationDuration -bool YES`
 
+## Handy Shortcuts
+
+**⌘ + ⌥ + /** - Generates documentation
+
 ## Tips & Tricks
 
 **⌥ + Double click** on any build setting to see what it does
