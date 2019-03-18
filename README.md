@@ -19,6 +19,8 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 
 ## Machine Learning (ML)
 
+[Core ML](https://developer.apple.com/documentation/coreml)
+
 ## Artificial Intelligence (AI)
 
 ## Augmented Reality (AR)
