@@ -4,6 +4,10 @@
 
 [Fastlane](https://fastlane.tools/)
 
+### Testing
+
+[Snapshot testing](https://github.com/Antondomashnev/FBSnapshotsViewer)
+
 ### Continuous Integration
 
 [Jenkins](https://jenkins.io)\
