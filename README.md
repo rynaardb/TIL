@@ -7,7 +7,8 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 [Swift](https://github.com/rynaardb/TIL/tree/master/swift)\
 [Vapor](https://github.com/rynaardb/TIL/tree/master/vapor)\
 [Git](https://github.com/rynaardb/TIL/tree/master/git)\
-[GraphQL](https://github.com/rynaardb/TIL/tree/master/graphql)
+[GraphQL](https://github.com/rynaardb/TIL/tree/master/graphql)\
+[Dates - ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
 
 ## Cryptography
 
