@@ -6,7 +6,7 @@
 
 ### Testing
 
-[Snapshot testing](https://github.com/Antondomashnev/FBSnapshotsViewer)\
+[FBSnapshotsViewer](https://github.com/Antondomashnev/FBSnapshotsViewer)\
 [KIF](https://github.com/kif-framework/KIF)\
 [Calabash](https://calaba.sh)
 
