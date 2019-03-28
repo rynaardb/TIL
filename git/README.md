@@ -81,6 +81,8 @@ Typically followed by a forced push:
 
 `git diff > myDiffPatch.patch`
 
+`git diff tag1..tag2 > myDiffPatch.patch` (generates a patch between two tags)
+
 `git apply --stat myDiffPatch.patch` (only shows the stats, does not apply the actual changes)
 
 `git apply myDiffPatch.patch`
