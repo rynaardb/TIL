@@ -1,6 +1,6 @@
 # Strings
 
-Strings are a collection of characters
+In Swift, a string is composed of a collection of Character values, stored using the UTF-8 encoding.
 
 ## Manipulating strings
 
