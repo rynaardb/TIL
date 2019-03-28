@@ -51,9 +51,12 @@
 [GitHub Desktop](https://desktop.github.com)\
 [SourceTree](https://www.sourcetreeapp.com)
 
-### Linters
+### Linters / Code Formatters
 
-[SwiftLint](https://github.com/realm/SwiftLint)
+[SwiftLint](https://github.com/realm/SwiftLint)\
+[SwiftFormat](https://github.com/nicklockwood/SwiftFormat)\
+[Prettier with Swift Plugin](https://github.com/prettier/prettier)\
+[swift-format (proposed)](https://github.com/google/swift/tree/format)\
 
 ### Meta-programming / Templating
 
