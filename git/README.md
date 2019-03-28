@@ -16,6 +16,9 @@ For a single repository:
 
 *Omit the last part to print the current values i.e. git config user.email*
 
+**Initialize a new repository**
+`git init`
+
 **Get status**
 
 `git status`
@@ -73,3 +76,11 @@ Typically followed by a forced push:
 **Clean cache**
 
 `git clean -dfx`
+
+**Create a diff patch**
+
+`git diff > myDiffPatch.patch`
+
+`git apply --stat myDiffPatch.patch` (only shows the stats, does not apply the actual changes)
+
+`git apply myDiffPatch.patch`
