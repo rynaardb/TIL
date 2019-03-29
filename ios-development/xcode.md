@@ -24,11 +24,22 @@ To show build times, run the following command in terminal:
 
 **⌘ + ⌥ + /** - Generates documentation
 
+**control + i** correct indentation
+
+**shift + ⌥ + clicking on file** opens the file with assistant editor layout
+
+**shift + control + click** for multi-cursor editing
+
 ## Tips & Tricks
 
 **⌥ + Double click** on any build setting to see what it does
 
 **MyView:100** in Open Quickly box will open the file at a given line number
+
+## Warnings $ Errors
+
+**#warning("refactor this!")** shows a warning in Xcode when building
+**#error("do not ship this!")** shows an error in Xcode when building
 
 ## From Terminal
 
@@ -41,6 +52,10 @@ alias xcproject='open -a "/Applications/Xcode.app" *.xcodeproj'
 # Opens Xcode project in working directory
 alias xcworkspace='open -a "/Applications/Xcode.app" *.xcworkspace'
 ```
+
+## Simulator
+
+**⌘ + T** To slow down animations
 
 ## Online Resources
 
