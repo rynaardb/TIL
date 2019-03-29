@@ -55,7 +55,7 @@ alias xcworkspace='open -a "/Applications/Xcode.app" *.xcworkspace'
 
 ## Simulator
 
-**⌘ + T** To slow down animations
+**⌘ + T** to slow down animations
 
 ## Online Resources
 
