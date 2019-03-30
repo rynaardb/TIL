@@ -59,4 +59,5 @@ alias xcworkspace='open -a "/Applications/Xcode.app" *.xcworkspace'
 
 ## Online Resources
 
-[Xcode in 20 Seconds Video Series by Paul Hudson](https://www.youtube.com/watch?v=CvVkR5z65XU&list=PLuoeXyslFTuYQ9Hoh42Bw8sPYMlTOV0V7)
+[Xcode in 20 Seconds Video Series by Paul Hudson](https://www.youtube.com/watch?v=CvVkR5z65XU&list=PLuoeXyslFTuYQ9Hoh42Bw8sPYMlTOV0V7)\
+[30 Xcode tips in 45 minutes](https://skillsmatter.com/skillscasts/13299-30-xcode-tips-in-45-minutes)
