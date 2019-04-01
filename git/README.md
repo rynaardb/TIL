@@ -85,4 +85,6 @@ Typically followed by a forced push:
 
 `git apply --stat myDiffPatch.patch` (only shows the stats, does not apply the actual changes)
 
-`git apply myDiffPatch.patch`
+`git apply myDiffPatch.patch` apply a patch
+
+`git grep "someString" ..` find something in the history
