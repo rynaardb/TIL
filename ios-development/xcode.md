@@ -42,8 +42,8 @@ See [instructions](https://github.com/sleeve/ios-empty-application-xcode-templat
 
 ## Warnings $ Errors
 
-**#warning("refactor this!")** shows a warning in Xcode when building
-**#error("do not ship this!")** shows an error in Xcode when building
+`#warning("refactor this!")` shows a warning in Xcode when building
+`#error("do not ship this!")` shows an error in Xcode when building
 
 ## From Terminal
 
