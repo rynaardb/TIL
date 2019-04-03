@@ -16,9 +16,13 @@ Collection of useful tips, trick and customisations for Xcode.
 
 ## General
 
-To show build times, run the following command in terminal:
+**Show build times** 
 
-`defaults write com.apple.dt.Xcode ShowBuildOperationDuration -bool YES`
+Run the following command in terminal: `defaults write com.apple.dt.Xcode ShowBuildOperationDuration -bool YES`
+
+**Empty Xcode project template**
+
+See [instructions](https://github.com/sleeve/ios-empty-application-xcode-template) - will need to create a two folders (Templates/Application) under ~/Library/Developer/Xcode/
 
 ## Handy Shortcuts
 
