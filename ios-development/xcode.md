@@ -40,7 +40,7 @@ See [instructions](https://github.com/sleeve/ios-empty-application-xcode-templat
 
 **MyView:100** in Open Quickly box will open the file at a given line number
 
-## Warnings $ Errors
+## Warnings & Errors
 
 `#warning("refactor this!")` shows a warning in Xcode when building\
 `#error("do not ship this!")` shows an error in Xcode when building
