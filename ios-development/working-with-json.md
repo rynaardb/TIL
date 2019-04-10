@@ -83,4 +83,4 @@ encoder.dateEncodingStrategy = .iso8601
 
 ## Online Resources
 
-[Ultimate Guide to JSON Parsing with Swift 4](https://benscheirman.com/2017/06/swift-json/)
+* [Ultimate Guide to JSON Parsing with Swift 4](https://benscheirman.com/2017/06/swift-json/)
