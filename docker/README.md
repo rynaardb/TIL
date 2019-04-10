@@ -26,7 +26,7 @@ Docker Trusted Registry (DTR) is a commercial product that enables complete imag
 
 `docker pull IMAGE:TAG` - pulls a new image\
 `docker build -t IMAGE_NAME` - build from local Dockerfile\
-`docker build -f Dockerfile.dev .` - force building for a specific environment
+`docker build -f Dockerfile.dev .` - force building for a specific environment\
 `docker images` - shows a list of docker images\
 `docker images -a` - shows a list of all docker images\
 `docker image prune -a` - removes all unused images\
