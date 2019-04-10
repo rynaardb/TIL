@@ -16,4 +16,4 @@ Vapor is an open source web framework written in Swift. It can be used to create
 
 ## Online Resources
 
-[Vapor 3.0 Documentation](https://docs.vapor.codes/3.0/)
+* [Vapor 3.0 Documentation](https://docs.vapor.codes/3.0/)
