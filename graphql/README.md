@@ -75,6 +75,6 @@ type Character {
 
 ## Online Resources
 
-[GraphQL](https://graphql.github.io)\
-[Apollo](https://www.apollographql.com)\
-[GraphQL with Vapor](https://github.com/HappySwifter/CapoServer)
+* [GraphQL](https://graphql.github.io)
+* [Apollo](https://www.apollographql.com)
+* [GraphQL with Vapor](https://github.com/HappySwifter/CapoServer)
