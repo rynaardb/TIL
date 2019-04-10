@@ -35,7 +35,7 @@ Docker Trusted Registry (DTR) is a commercial product that enables complete imag
 
 ### Docker Container
 
-`docker push username/container_name:tag` - pushes the container image to Docker Hub (remember to docker login first)\
+`docker push username/container_name:tag` - pushes the container image to Docker Hub (login first)\
 `docker ps` - shows a list of running containers\
 `docker ps --all` - shows all created containers\
 `docker container ls -a` - shows all containers\
