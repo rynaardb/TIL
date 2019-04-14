@@ -1,5 +1,7 @@
 # Working with Table Views
 
+## An easy way to deal with reusable UITableView Cells
+
 ```swift
 protocol ReusableView {
     static var reuseIdentifier: String { get }
