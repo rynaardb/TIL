@@ -14,6 +14,10 @@ Collection of useful tips, trick and customisations for Xcode.
 
 `-com.apple.CoreData.MigrationDebug 1`
 
+**Concurrency debugging:**
+
+`-com.apple.CoreData.ConcurrencyDebug 1`
+
 ## General
 
 **Show build times** 
