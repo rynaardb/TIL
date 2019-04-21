@@ -1,6 +1,6 @@
 # Books
 
-Books I own and currently reading
+Books I own and/or currently reading.
 
 ## Reading
 
