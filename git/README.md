@@ -37,6 +37,8 @@ For a single repository:
 
 `git commit --amend` modify most recent commit
 
+`git reset --soft HEAD~1` undo last commit
+
 **Pushing**
 
 `git push` or or `git push origin BRANCH_NAME`
