@@ -35,6 +35,8 @@ For a single repository:
 
 `git commit -m "COMMIT_MESSAGE"`
 
+`git commit --amend` modify most recent commit
+
 **Pushing**
 
 `git push` or or `git push origin BRANCH_NAME`
