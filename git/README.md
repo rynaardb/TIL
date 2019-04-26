@@ -39,6 +39,12 @@ For a single repository:
 
 `git reset --soft HEAD~1` undo last commit
 
+**Tags**
+
+`git tag` list all tags
+
+`git tag -a 1.0 -m "version 1.0"` tag a commit
+
 **Pushing**
 
 `git push` or or `git push origin BRANCH_NAME`
