@@ -81,6 +81,8 @@ Typically followed by a forced push:
 
 `push --force origin BRANCH_NAME`
 
+`git cherry-pick COMMIT_ID` cherry pick a specific commit
+
 ## Cherry Pick
 
 `git cherry-pick hash_commit_A hash_commit_B` add some commits to the top of the current branch
