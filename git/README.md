@@ -39,6 +39,8 @@ For a single repository:
 
 `git reset --soft HEAD~1` undo last commit
 
+`git commit --amend -m "New commit message"` ammend last commit message
+
 **Tags**
 
 `git tag` list all tags
