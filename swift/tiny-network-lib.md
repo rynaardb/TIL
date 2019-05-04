@@ -1,5 +1,7 @@
 # Tiny Networking Library
 
+Uses Swift 5's Result type with completion callbacks using closures.
+
 ```swift
 struct Resource<T> where T: Decodable {
     let path: String
