@@ -51,3 +51,16 @@ let combinedAge = personArray.reduce(0) { (result, next) -> Int in
     return result + next.age
 }
 ```
+
+### sort
+
+Sort by optional date.
+
+```swift
+let arraySortedByDate = messages.sorted {
+    let date1 = $0.createdAt ?? Date.distantPast
+    let date2 = $1.createdAt ?? Date.distantPast
+
+    return date1 > date2
+}
+```
