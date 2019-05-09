@@ -43,3 +43,17 @@ The main prefix is: `ctrl+b` followed by `:`
 `,` name the window
 
 `&` close / kill the window
+
+## panes / splits
+
+`%` split vertically
+`"` split horizontially
+`o` swop panes
+`x` kill pane
+
+## misc
+
+`d` detaches the session
+`t` show big clock
+`?` list shortcuts
+`:` show the prompt
