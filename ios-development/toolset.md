@@ -81,6 +81,10 @@
 [OpenSim](https://github.com/luosheng/OpenSim)\
 [Sherlock](https://sherlock.inspiredcode.io)
 
+### Design Resources & Assets (icons, mockups, etc.)
+
+[Streamline Icons](https://streamlineicons.com/ux/)
+
 ### Marketing / Presentation
 
 [Rotato](https://rotato.xyz/)
