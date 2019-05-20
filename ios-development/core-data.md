@@ -21,7 +21,7 @@ persistentContainer.performBackgroundTask { moc in
 * NSManagedObjectContext
 
 ```swift
-let fetchRequest = NSFetchRequest<Routine>(entityName: "Person")
+let fetchRequest = NSFetchRequest<Person>(entityName: "Person")
 
 // optional predicate to filter fetched data
 //fetchRequest.predicate = NSPredicate(format: "id == %@", "4FDB2C1D-03E2-4A1D-91C5-A911A9E5E697")
