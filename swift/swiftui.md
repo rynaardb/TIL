@@ -23,3 +23,23 @@ struct MapView : UIViewRepresentable {
     }
 }
 ```
+
+## Lists
+
+### Static
+
+```swift
+List {
+    Text("Row 1")
+    Text("Row 2")
+    Text("Row 3")
+}
+```
+
+### Dynamic
+
+```swift
+List(items) { item in
+    Text(item.name)
+}
+```
