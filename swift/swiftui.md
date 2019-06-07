@@ -1,5 +1,23 @@
 # SwiftUI
 
+## Basics
+
+By default, SwiftUI view files declare two structures. The first structure conforms to the `View` protocol and describes the view’s content and layout. The second structure conforming to `PreviewProvider` declares a preview for that view.
+
+```swift
+struct ContentView: View {
+    var body: some View {
+        Text("Hello SwiftUI!")
+    }
+}
+
+struct ContentView_Preview: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
+```
+
 ## Wrapping UIView subclasses
 
 To use `UIView` subclasses from within SwiftUI, you wrap the other view in a SwiftUI view that conforms to the `UIViewRepresentable` protocol.
