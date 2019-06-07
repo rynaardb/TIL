@@ -43,3 +43,51 @@ List(items) { item in
     Text(item.name)
 }
 ```
+
+Lists work with identifiable data. You can make your data identifiable in one of two ways: by calling the `identified(by:)` method with a key path to a property that uniquely identifies each element, or by making your data type conform to the `Identifiable` protocol.
+
+```swift
+struct Item: Hashable, Codable, Identifiable {
+    var id: Int
+    var name: String
+}
+```
+
+## Navigation between List and Detail
+
+You add navigation capabilities to a list by embedding it in a `NavigationView` and then nesting each row in a `NavigationButton` to set up a transtition to a destination view.
+
+```swift
+NavigationView {
+    List(items) { item in
+        Text(item.name)
+    }
+    .navigationBarTitle(Text("Items"))
+}
+```
+
+## Dynamic Previews
+
+By default, previews render at the size of the device in the active scheme. You can change the preview device by calling the `previewDevice(_:)` modifier method.
+
+```swift
+struct ItemList_Previews: PreviewProvider {
+    static var previews: some View {
+        ItemList()
+            .previewDevice(PreviewDevice(rawValue: "iPhone XS"))
+    }
+}
+```
+
+`ForEach` operates on collections the same way as the list, which means you can use it anywhere you can use a child view, such as in stacks, lists, groups, and more. When the elements of your data are simple value types — you can use `\.self` as key path to the identifier.
+
+```swift
+struct ItemList_Previews: PreviewProvider {
+    static var previews: some View {
+        ForEach(["iPhone SE", "iPhone XS Max"].identified(by: \.self)) { deviceName in
+            ItemList()
+                .previewDevice(PreviewDevice(rawValue: deviceName))
+        }
+    }
+}
+```
