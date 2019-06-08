@@ -109,3 +109,26 @@ struct ItemList_Previews: PreviewProvider {
     }
 }
 ```
+
+## Working with UIKit views and view controllers
+
+To represent UIKit views and view controllers in SwiftUI, you create types that conform to the `UIViewRepresentable` and `UIViewControllerRepresentable` protocols. Your custom types create and configure the UIKit types that they represent, while SwiftUI manages their life cycle and updates them when needed.
+
+```swift
+struct ItemViewController: UIViewControllerRepresentable {
+    var controllers: [UIViewController]
+
+    func makeUIViewController(context: Context) -> ItemViewController {
+        let itemViewController = ItemViewController(
+            transitionStyle: .scroll,
+            navigationOrientation: .horizontal)
+
+        return pageViewController
+    }
+
+    func updateUIViewController(_ itemViewController: ItemViewController, context: Context) {
+        itemViewController.setViewControllers(
+            [controllers[0]], direction: .forward, animated: true)
+    }
+}
+```
