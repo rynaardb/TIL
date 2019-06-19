@@ -42,6 +42,28 @@ struct MapView : UIViewRepresentable {
 }
 ```
 
+## Stacks
+
+### HStack
+
+```swift
+HStack {
+    Text("Col 1")
+    Text("Col 2")
+    Text("Col 3")
+}
+```
+
+### VStack
+
+```swift
+VStack {
+    Text("Row 1")
+    Text("Row 2")
+    Text("Row 3")
+}
+```
+
 ## Lists
 
 ### Static
