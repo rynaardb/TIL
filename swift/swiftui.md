@@ -154,3 +154,16 @@ struct ItemViewController: UIViewControllerRepresentable {
     }
 }
 ```
+
+## Scroll Views
+
+⚠️ Only works with `HStack` as parent view.
+
+```swift
+ScrollView {
+    HStack {
+        Text("Col 1")
+        Text("Col 1")
+    }
+}
+```
