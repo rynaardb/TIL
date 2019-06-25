@@ -167,3 +167,19 @@ ScrollView {
     }
 }
 ```
+
+## Gestures
+
+```swift
+.tapAction {
+    print("Tapped!")
+}
+
+// Double tap based on count
+.tapAction(count: 2) {
+        print("Double tapped!")
+}
+```
+
+
+## Transitions
