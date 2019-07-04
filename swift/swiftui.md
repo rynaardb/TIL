@@ -157,8 +157,6 @@ struct ItemViewController: UIViewControllerRepresentable {
 
 ## Scroll Views
 
-⚠️ Only works with `HStack` as parent view.
-
 ```swift
 ScrollView {
     HStack {
@@ -167,6 +165,8 @@ ScrollView {
     }
 }
 ```
+
+See also `GeometryReader`
 
 ## Gestures
 
@@ -187,5 +187,9 @@ ScrollView {
 TODO
 
 ## GeometryReader
+
+TODO
+
+## TabbedView
 
 TODO
