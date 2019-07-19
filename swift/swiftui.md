@@ -4,6 +4,7 @@
 
 By default, SwiftUI view files declare two structures. The first structure conforms to the `View` protocol and describes the view’s content and layout. The second structure conforming to `PreviewProvider` declares a preview for that view.
 
+
 ```swift
 struct ContentView: View {
     var body: some View {
