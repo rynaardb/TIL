@@ -3,9 +3,9 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 
 ## Cloud Computing
 
-AWS
-Google Cloud
-Microsoft Azure
+* AWS
+* Google Cloud
+* Microsoft Azure
 
 ## Programming
 
