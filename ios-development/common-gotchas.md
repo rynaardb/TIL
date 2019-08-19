@@ -4,7 +4,7 @@ Common gotchas when developing iOS applications.
 
 ## GCD
 
-* Make sure the UI gets updated on the main thread
+* Make sure the UI gets updated on the main thread. Use `DispatchQueue.main.async { ... }`.
 
 ## Retain cycles
 
