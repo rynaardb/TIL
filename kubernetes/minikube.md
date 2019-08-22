@@ -1,4 +1,6 @@
-# minikube
+# Minikube
+
+Minikube is a tool that makes it easy to run Kubernetes locally. Minikube runs a single-node Kubernetes cluster inside a Virtual Machine (VM) on your local machine
 
 ## Set up a Kubernetes cluster on your local machine (using minikube)
 
