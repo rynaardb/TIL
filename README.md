@@ -9,12 +9,12 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 
 ## Programming
 
-[iOS](https://github.com/rynaardb/TIL/tree/master/ios-development)\
-[Swift](https://github.com/rynaardb/TIL/tree/master/swift)\
-[Vapor](https://github.com/rynaardb/TIL/tree/master/vapor)\
-[Git](https://github.com/rynaardb/TIL/tree/master/git)\
-[GraphQL](https://github.com/rynaardb/TIL/tree/master/graphql)\
-[Dates - ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
+* [iOS](https://github.com/rynaardb/TIL/tree/master/ios-development
+* [Swift](https://github.com/rynaardb/TIL/tree/master/swift)
+* [Vapor](https://github.com/rynaardb/TIL/tree/master/vapor)
+* [Git](https://github.com/rynaardb/TIL/tree/master/git)
+* [GraphQL](https://github.com/rynaardb/TIL/tree/master/graphql)
+* [Dates - ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html)
 
 ## Cryptography
 
@@ -26,7 +26,7 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 
 ## Machine Learning (ML)
 
-[Core ML](https://developer.apple.com/documentation/coreml)
+* [Core ML](https://developer.apple.com/documentation/coreml)
 
 ## Artificial Intelligence (AI)
 
@@ -36,19 +36,19 @@ ARKit
 
 ## Containerization
 
-[Docker](https://github.com/rynaardb/TIL/tree/master/docker)\
-[Docker Compose](https://github.com/rynaardb/TIL/tree/master/docker-compose)\
-[Kubernetes](https://github.com/rynaardb/TIL/tree/master/kubernetes)
+* [Docker](https://github.com/rynaardb/TIL/tree/master/docker)
+* [Docker Compose](https://github.com/rynaardb/TIL/tree/master/docker-compose)
+* [Kubernetes](https://github.com/rynaardb/TIL/tree/master/kubernetes)
 
 ## Cybersecurity
 
 ## Microservices
 
-[Intro](https://github.com/rynaardb/TIL/tree/master/microservices)
+* [Intro](https://github.com/rynaardb/TIL/tree/master/microservices)
 
 ## Scalable Architecture
 
-[Elasticsearch](https://www.elastic.co)
+* [Elasticsearch](https://www.elastic.co)
 
 ## Blockchain
 
