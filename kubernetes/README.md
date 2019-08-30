@@ -31,7 +31,7 @@ An API object that describes how to access applications, such as a set of Pods ,
 A directory containing data, accessible to the containers in a pod.
 
 ## minikube
-[Installation & Usage](https://github.com/rynaardb/TIL/blob/master/kubernetes/minikube.md)
+* [Installation & Usage](https://github.com/rynaardb/TIL/blob/master/kubernetes/minikube.md)
 
 ## Online Resources
 
