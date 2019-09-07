@@ -20,9 +20,9 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 
 ## Architecture & Best Practises
 
-[S.O.L.I.D. Principles](https://github.com/rynaardb/TIL/tree/master/solid-principles)\
-[Uber's RIBs - Cross Platform Mobile Architecture](https://github.com/uber/RIBs)\
-[VIPER - Clean architecture for iOS](https://github.com/infinum/iOS-VIPER-Xcode-Templates)
+* [S.O.L.I.D. Principles](https://github.com/rynaardb/TIL/tree/master/solid-principles)\
+* [Uber's RIBs - Cross Platform Mobile Architecture](https://github.com/uber/RIBs)\
+* [VIPER - Clean architecture for iOS](https://github.com/infinum/iOS-VIPER-Xcode-Templates)
 
 ## Machine Learning (ML)
 
