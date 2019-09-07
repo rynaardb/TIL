@@ -9,7 +9,7 @@ Things I've learned and/or things I want to remember. Notes, links, advice, exam
 
 ## Programming
 
-* [iOS](https://github.com/rynaardb/TIL/tree/master/ios-development
+* [iOS](https://github.com/rynaardb/TIL/tree/master/ios-development)
 * [Swift](https://github.com/rynaardb/TIL/tree/master/swift)
 * [Vapor](https://github.com/rynaardb/TIL/tree/master/vapor)
 * [Git](https://github.com/rynaardb/TIL/tree/master/git)
