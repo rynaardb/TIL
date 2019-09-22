@@ -4,13 +4,13 @@ Compose is a tool for defining and running multi-container Docker applications. 
 
 ## Most Commonly Used Commands
 
-`docker-compose start` - TODO\
-`docker-compose stop` - TODO\
-`docker-compose pause` - TODO\
-`docker-compose unpause` - TODO\
-`docker-compose ps` - TODO\
-`docker-compose up` - TODO\
-`docker-compose down` - TODO
+* `docker-compose start`
+* `docker-compose stop`
+* `docker-compose pause`
+* `docker-compose unpause`
+* `docker-compose ps`
+* `docker-compose up`
+* `docker-compose down`
 
 ## Online Resources
 
