@@ -8,8 +8,17 @@
 * markdownlint
 * npm
 * PlatformIO IDE (requires Python 3 on macOS)
+* Remote Development
+* Visual Studio IntelliCode
+* vscode-icons
 
 ## Languae Extensions
+
+* Python
+
+## Markup / Markdown
+
+* YAML
 
 ## Themes
 
