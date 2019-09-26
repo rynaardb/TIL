@@ -114,4 +114,5 @@ Typically followed by a forced push:
 **Generate a new SSH key**
 
 `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+
 `pbcopy < ~/.ssh/id_rsa.pub`
