@@ -19,6 +19,10 @@ For a single repository:
 **Initialize a new repository**
 `git init`
 
+**Add a remote**
+
+`git remote add origin git@github.com:rynaardb/munich-kvr-termin-bot.git`
+
 **Get status**
 
 `git status`
