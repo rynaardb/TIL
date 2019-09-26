@@ -110,3 +110,8 @@ Typically followed by a forced push:
 `git apply myDiffPatch.patch` apply a patch
 
 `git grep "someString" ..` find something in the history
+
+**Generate a new SSH key**
+
+`ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+`pbcopy < ~/.ssh/id_rsa.pub`
