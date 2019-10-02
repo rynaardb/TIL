@@ -55,7 +55,7 @@ Docker Trusted Registry (DTR) is a commercial product that enables complete imag
 ## Dockerfile
 
 * `COPY ./ ./` copies all files from local machine to image path
-v`WORKDIR path/to/folder` specifies the working directory
+* `WORKDIR path/to/folder` specifies the working directory
 
 ## Docker Volumes
 
