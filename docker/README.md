@@ -47,8 +47,10 @@ Docker Trusted Registry (DTR) is a commercial product that enables complete imag
 
 ### Other Commands
 
-`docker login` - logs into Docker Hub
-`docker system prune` - removes all containers
+* `docker login` - logs into Docker Hub
+* `docker system info` - pretty self explanatory
+* `docker system df` - shows how much disk space is being used by docker (images, volumes etc.)
+* `docker system prune` - removes all containers
 
 ## Dockerfile
 
