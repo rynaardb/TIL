@@ -19,6 +19,10 @@ For a single repository:
 **Initialize a new repository**
 `git init`
 
+**Add a remote**
+
+`git remote add origin git@github.com:rynaardb/munich-kvr-termin-bot.git`
+
 **Get status**
 
 `git status`
@@ -106,3 +110,9 @@ Typically followed by a forced push:
 `git apply myDiffPatch.patch` apply a patch
 
 `git grep "someString" ..` find something in the history
+
+**Generate a new SSH key**
+
+`ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+
+`pbcopy < ~/.ssh/id_rsa.pub`
