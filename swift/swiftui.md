@@ -190,7 +190,6 @@ See also `GeometryReader`
 }
 ```
 
-
 ## Transitions / Animations
 
 TODO
@@ -206,3 +205,19 @@ TODO
 ## Scaling & Transforming
 
 TODO
+
+## Drawing Paths
+
+```swift
+Path { path in
+    path.move(to: CGPoint(x: 0, y: 0))
+    path.addLine(to: CGPoint(x: 0, y: 100))
+    path.addLine(to: CGPoint(x: 100, y: 100))
+    path.addLine(to: CGPoint(x: 100, y: 0))
+}
+```
+
+## WatchOS Specific Modifiers
+
+* `.focusable()`
+* `.digitalCrownRotation($binding)`
