@@ -8,7 +8,7 @@ The main prefix is: `ctrl+b` followed by `:`
 
 `tmux` start a new session
 
-`tmux` start a new named session
+`tmux -t NAME-OF-SESSION` start a new named session
 
 ## list
 
