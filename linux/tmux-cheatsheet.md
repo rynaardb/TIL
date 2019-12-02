@@ -57,3 +57,14 @@ The main prefix is: `ctrl+b` followed by `:`
 `t` show big clock
 `?` list shortcuts
 `:` show the prompt
+
+## config
+
+`tmux source ~/.tmux.conf` to reload config
+
+## plugins
+
+tpm - TODO
+
+`ctrl+b` + `shift+I` to install plugins
+`ctrl+b` + `shift+U` to update plugins
