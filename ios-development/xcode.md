@@ -18,6 +18,9 @@ Collection of useful tips, trick and customisations for Xcode.
 
 `-com.apple.CoreData.ConcurrencyDebug 1`
 
+**Measure app start time:**
+`DYLD_PRINT_STATISTICS 1`
+
 ## General
 
 **Show build times** 
