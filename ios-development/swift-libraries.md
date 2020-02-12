@@ -49,3 +49,7 @@
 [Design Patterns In Swift](https://github.com/ochococo/Design-Patterns-In-Swift)
 
 [RxSwift](https://github.com/ReactiveX/RxSwift)
+
+[BeterCodable](https://github.com/marksands/BetterCodable)
+
+[ValidatedPropertyKit](https://github.com/SvenTiigi/ValidatedPropertyKit) - Validation using propery wrappers
