@@ -19,10 +19,10 @@
 
 ### Curations / Newesletters
 
-[iOS Dev Weekly](https://iosdevweekly.com)\
-[ios-goodies.com](https://ios-goodies.com/)\
-[andybargh.com](https://andybargh.com/)\
-[indieiosfocus.com](http://indieiosfocus.com/)
+* [iOS Dev Weekly](https://iosdevweekly.com)\
+* [ios-goodies.com](https://ios-goodies.com/)\
+* [andybargh.com](https://andybargh.com/)\
+* [indieiosfocus.com](http://indieiosfocus.com/)
 
 ### Screencasts / Videos
 
