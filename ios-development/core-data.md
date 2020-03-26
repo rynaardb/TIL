@@ -66,3 +66,15 @@ do {
 ## NSFetchedResultsController
 
 TODO
+
+## Predicates to fetch between two dates
+
+```swift
+let calendar = Calendar.current
+let fromDate = calendar.startOfDay(for: Date())
+let toDate = calendar.date(byAdding: .day, value: 1, to: dateFrom)
+
+let fromPredicate = NSPredicate(format: "%@ >= %@", fromDate as NSDate, fromDate as NSDate)
+let toPredicate = NSPredicate(format: "%@ < %@", toDate as NSDate, toDate as NSDate)
+let datePredicate = NSCompoundPredicate(andPredicateWithSubpredicates: [fromPredicate, toPredicate])
+```
