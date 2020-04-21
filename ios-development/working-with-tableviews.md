@@ -42,3 +42,19 @@ class SearchViewController: UITableViewController {
     }
 }
 ```
+
+## Swipe actions
+
+```swift
+func tableView(_ tableView: UITableView, canEditRowAt indexPath: IndexPath) -> Bool {
+    return true
+}
+    
+func tableView(_ tableView: UITableView, editActionsForRowAt indexPath: IndexPath) -> [UITableViewRowAction]? {
+    let deleteAction = UITableViewRowAction(style: .destructive, title: "Delete") { _, _ in
+        // Delete action here
+    }
+    deleteAction.backgroundColor = .red
+    return [deleteAction]
+}
+```
