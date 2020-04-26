@@ -19,26 +19,26 @@
 
 ### Curations / Newesletters
 
-* [iOS Dev Weekly](https://iosdevweekly.com)\
-* [ios-goodies.com](https://ios-goodies.com/)\
-* [andybargh.com](https://andybargh.com/)\
+* [iOS Dev Weekly](https://iosdevweekly.com)
+* [ios-goodies.com](https://ios-goodies.com/)
+* [andybargh.com](https://andybargh.com/)
 * [indieiosfocus.com](http://indieiosfocus.com/)
 
 ### Screencasts / Videos
 
-[NSScreencast](https://nsscreencast.com/)\
-[pointfree.co](https://www.pointfree.co/)
+* [NSScreencast](https://nsscreencast.com/)
+* [pointfree.co](https://www.pointfree.co/)
 
 ### Podcasts
 
-[Swift Community Podcast](https://www.swiftcommunitypodcast.org/)\
-[Swift over Coffee](https://twitter.com/swiftovercoffee)\
-[Swift Unwrapped](https://twitter.com/swift_unwrapped)\
-[Swift by Sundell](https://www.swiftbysundell.com/podcast)\
-[ContraVariance](https://contravariance.rocks)\
-[Inside iOS Dev](http://insideiosdev.com)\
-[SwiftCoders](https://itunes.apple.com/us/podcast/swiftcoders-weekly-interviews-with-swift-developers/id1082937962?mt=2)
+* [Swift Community Podcast](https://www.swiftcommunitypodcast.org/)
+* [Swift over Coffee](https://twitter.com/swiftovercoffee)
+* [Swift Unwrapped](https://twitter.com/swift_unwrapped)
+* [Swift by Sundell](https://www.swiftbysundell.com/podcast)
+* [ContraVariance](https://contravariance.rocks)
+* [Inside iOS Dev](http://insideiosdev.com)
+* [SwiftCoders](https://itunes.apple.com/us/podcast/swiftcoders-weekly-interviews-with-swift-developers/id1082937962?mt=2)
 
 ### Tools
 
-[My Toolset](https://github.com/rynaardb/TIL/blob/master/ios-development/toolset.md)
+* [My Toolset](https://github.com/rynaardb/TIL/blob/master/ios-development/toolset.md)
