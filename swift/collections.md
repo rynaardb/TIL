@@ -64,3 +64,17 @@ let arraySortedByDate = messages.sorted {
     return date1 > date2
 }
 ```
+
+## Dictionaries
+
+### Get all the keys
+
+```swift
+let keys = dict.map{$0.key}
+```
+
+### Get all the values
+
+```swift
+let values = dict.map{$0.value}
+```
