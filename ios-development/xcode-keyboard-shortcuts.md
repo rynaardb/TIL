@@ -13,6 +13,7 @@ A collection of some of the most useful and frequently used keyboard shortcuts i
 | Editor     | Balance indentation                    | ⌃ + I         |
 | Editor     | Delete line                            | ⌘ + D         |
 | Editor     | Open library                           | ⇧ + ⌘ + L     |
+| Editor     | Generate documentation                 | ⌥ + ⌘ + /     |
 | Navigation | Open quickly                           | ⇧ + ⌘ + O     |
 | Navigation | Switch tabs left                       | ⇧ + ⌘ + [     |
 | Navigation | Switch tabs right                      | ⇧ + ⌘ + ]     |
