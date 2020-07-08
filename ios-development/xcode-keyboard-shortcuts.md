@@ -1,6 +1,6 @@
 # Xcode Keyboard Shortcuts
 
-A collection of some of the most useful and frequently used keyboard shortcuts in Xcode
+A collection of some of the most useful and frequently used keyboard shortcuts in Xcode.
 
 | Category   | Command                                | Shortcut      |
 | ---------- | -------------------------------------- | ------------- |
